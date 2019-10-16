@@ -1,0 +1,9 @@
+.important{
+background-color: orange;
+  font-style:italic;
+}
+
+.trivial{
+text-color:red;
+font-weight:bold;  
+}
