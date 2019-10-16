@@ -1,9 +1,11 @@
 .important{
 background-color: orange;
   font-style:italic;
+  margin-top: 3px;
+  margin-bottom: 3px;
 }
 
 .trivial{
 text-color:red;
-font-weight:bold;  
+font-weight:bold;
 }
